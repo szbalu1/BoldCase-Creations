@@ -1,0 +1,1 @@
+Phone Case Studio is a product showcase website designed with simplicity and style in mind. Using HTML to build the structure and CSS for visual appeal, this project delivers a clean and functional user experience. It’s an excellent example for those exploring web design.
